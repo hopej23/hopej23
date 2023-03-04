@@ -1,4 +1,4 @@
-### Hi there, Hope John Here! 👋
+### Hi there, Is HOPE JOHN Here! 👋
 
 <!--
 **hopej23/hopej23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

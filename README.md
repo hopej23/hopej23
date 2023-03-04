@@ -1,4 +1,4 @@
-## Hi there, Is HOPE JOHN Here! 👋
+## Hi there, HOPE JOHN Here! 👋
 
 <!--
 **hopej23/hopej23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am Data Analyst
+### I am a Data Analyst

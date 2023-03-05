@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I am a Data Analyst
+* I am a junior Data Analyst😊
+* I'm a data Enthusiast by heart❤💖
+* I'm currently learning SQL✌✨
+* I extremely enjoy applying my data analysis skills to extract insights from large data sets and visualize them in a meaningful story🌹
+* My expertise lies in working with large sets of data, identifying trends and patterns👌
+* I would love nothing but to use statistical methods to extract insights that help organizations make informed decisions⚡
+* I am proficient in using various analytical tools such as: Excel, Google Spreadsheet, and SQL⭐
+* I'm excited to be here and I look forward to contributing my skills to your organization🤝
